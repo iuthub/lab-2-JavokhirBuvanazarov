@@ -1,0 +1,19 @@
+.container{
+	margin:50px;
+	background:blue;
+	border:3px solid yellow;
+}
+h3{
+	color:red;
+}
+.last-img{
+	width: 100%;
+}
+h1{
+	color:#123432;
+}
+body{
+	background: #89783251;
+	font-family: Arial;
+
+}
